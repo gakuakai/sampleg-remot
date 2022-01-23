@@ -1,5 +1,6 @@
 #include <stdio.h>
 
-int main(){
-    retuen 0;
+int main() {
+  printf("hello world\n");
+  retuen 0;
 }
